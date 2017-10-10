@@ -1,0 +1,22 @@
+{
+  "/index": {
+    "GET": {
+      "route": "index"
+    }
+  },
+  "/service1":{
+    "GET": {
+      "route": "service1"
+    }
+  },
+  "/service2": {
+    "GET": {
+      "route": "service2"
+    }
+  },
+  "service3": {
+    "GET": {
+      "route": "service3"
+    }
+  }
+}
